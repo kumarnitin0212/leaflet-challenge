@@ -44,20 +44,5 @@ Create a legend that will provide context for your map data.
 
 Your visualization should look something like the preceding map.
 
-Part 2: Gather and Plot More Data (Optional)
-Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
-
-The following image is an example screenshot of what you should produce:
-![image](https://user-images.githubusercontent.com/104722723/197541328-53c0e2fc-8b2c-4489-b010-b691c09a7ed0.png)
-Perform the following tasks:
-
-Plot the tectonic plates dataset on the map in addition to the earthquakes.
-
-Add other base maps to choose from.
-
-Put each dataset into separate overlays that can be turned on and off independently.
-
-Add layer controls to your map.
-
 References
 Dataset created by the http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
