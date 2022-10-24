@@ -17,7 +17,10 @@ Push the above changes to GitHub.
 Instructions
 The instructions for this activity are broken into two parts:
 
-Part 1: Create the Earthquake Visualization
+Part 1: Create the Earthquake Visualization![image](https://user-images.githubusercontent.com/104722723/197539775-58b21f43-5f3a-40bb-9322-ab1cfe838884.png)
+
+
+
 
 Part 2: Gather and Plot More Data (Optional)
 
